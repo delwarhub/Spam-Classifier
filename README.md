@@ -1,2 +1,1 @@
-# Spam-Classifier
-Spam Classifier
+# SpamClassifier
